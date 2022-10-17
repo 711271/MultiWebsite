@@ -23,11 +23,7 @@ footer{
     text-align: center;
     background:darkkhaki;
 }
-p {
-    margin-left: 60px;
-    margin-right: 60px;
-}
-ul {
+p, ul {
     margin-left: 60px;
     margin-right: 60px;
 }
